@@ -1,0 +1,14 @@
+{
+  "name": "phantomjs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
